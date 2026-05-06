@@ -9,7 +9,8 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "expo": "~54.0.33",
+    "eas-cli": "^0.52.0",
+    "expo": "^49.0.23",
     "expo-status-bar": "~3.0.9",
     "firebase": "^12.12.1",
     "react": "19.1.0",

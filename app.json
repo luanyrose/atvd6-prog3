@@ -2,6 +2,14 @@
   "expo": {
     "name": "atvd6",
     "slug": "atvd6",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "fdf55da8-401b-48f7-aba5-653b70700c4f"
+      }
+    },
+    "android": {
+      "package": "com.luanyy.atvd6"
+    }
   }
 }
